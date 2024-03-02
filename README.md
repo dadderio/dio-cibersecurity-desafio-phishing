@@ -1,4 +1,4 @@
-# DIO Cyber Security Desafio Phishing
+# DIO CiberSecurity Desafio Phishing
 Desafio da Formação Cybersecurity Specialist - DIO
 
 ### Ferramentas
