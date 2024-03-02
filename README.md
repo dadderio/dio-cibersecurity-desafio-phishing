@@ -15,5 +15,5 @@ Desafio da Formação Cybersecurity Specialist - DIO
 * Tipo de template: Google
 * Obtendo o endereço da máquina: ifconfig
 
-### Resultados
+### Resultado
 <img src="captura_desafio_phishing.png">
